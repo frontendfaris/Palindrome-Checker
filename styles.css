@@ -9,6 +9,10 @@
   --accent3: #00a6fb;
 }
 
+html {
+  scroll-behaviour: smooth;
+}
+  
 body {
   background-color: var(--bodycolor);
   padding: 10px;
